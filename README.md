@@ -3,6 +3,6 @@ A lightweight Python-based keylogger built using the pynput library to capture k
 
 ## Code Files
 main.py - Keyboard Listener (Tracks Keystrokes on runtime constantly) <br />
-keyboardController - Keyboard Controller (Controls Keyboard on runtime) <br />
+keyboardController.py - Keyboard Controller (Controls Keyboard on runtime) <br />
 mouseController.py - Mouse Controller (Controls Mouse Positioning on runtime) <br />
 log.txt - To write keystrokes into file <br />
