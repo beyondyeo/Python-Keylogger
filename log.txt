@@ -1,0 +1,4 @@
+tetstingKey.alt_lKey.tabKey.ctrl_l\x06nacbackspace
+
+Key.alt_lKey.tabKey.alt_lKey.tab
+Key.alt_lKey.tabKey.ctrl_l\x13
